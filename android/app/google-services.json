@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "283610689138",
+    "project_id": "sleeksites-41af1",
+    "storage_bucket": "sleeksites-41af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283610689138:android:68ab409faefda82bcb1ceb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283610689138-k81161d9p2stdt7daq2202905d2132mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8w0m9tXugBKv2BcMRdVCdjPBFpsCVh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283610689138-k81161d9p2stdt7daq2202905d2132mr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283610689138-5b4ea0gc2jt28o3f02hm50hsnsnracu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
