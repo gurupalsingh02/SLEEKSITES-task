@@ -1,16 +1,12 @@
-# flutter_application_1
+# 🔧 Steps for Installation
 
-A new Flutter project.
+![](https://shields.io/badge/-step%201:-red) open your command promt & go to the directory where you want to create your flutter project.
 
-## Getting Started
+![](https://shields.io/badge/-step%202:-red) run following command: 
 
-This project is a starting point for a Flutter application.
+```bash
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+       flutter create --org <YOUR-ORGANIZATION-NAME> whatsapp_clone    #to create your app ex. flutter create --org com.codexveer whatsapp_clone
+       npm install -g firebase-tools                                   #to install firebase CLI        
+       dart pub global activate flutterfire_cli                        #to activate firebase CLI in your project
+       flutterfire configure                                           #to configure firebase in your project<Note: configure firebase for android and ios only>
